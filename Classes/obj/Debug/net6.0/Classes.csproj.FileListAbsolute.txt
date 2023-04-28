@@ -1,0 +1,15 @@
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/bexmetzger/Desktop/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
